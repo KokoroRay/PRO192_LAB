@@ -1,0 +1,7 @@
+Add Song(GiaTu, 5, PhuongDung)
+Add Song(VungLaMeBay, 7, AnhVietThanh)
+Add Song(DiemXua, 4, TrinhCongSon)
+Max Duration Song is VungLaMeBay
+Remove Song Max Duration
+Max Duration Song is GiaTu
+*** Remove All Song

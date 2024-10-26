@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CE181522_LAB3",
+      "request": "launch",
+      "mainClass": "ce181522_lab3.CE181522_LAB3",
+      "projectName": "CE181522_LAB3_b30e4491"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/namng/AppData/Local/Temp/6092d786-e186-4349-b5a2-2be653f7a891_NganNKCE191316.zip.891/NganNKCE191316/1/src",
+      "program": "c:/Users/namng/AppData/Local/Temp/6092d786-e186-4349-b5a2-2be653f7a891_NganNKCE191316.zip.891/NganNKCE191316/1/src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
